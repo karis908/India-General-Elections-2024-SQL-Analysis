@@ -30,4 +30,4 @@ subqueries, ALTER TABLE, UPDATE, CTEs and window functions such as ROW_NUMBER().
 - `Screenshots/` – add SSMS/database screenshots here
 
 ## Author
-Sunil Nayak
+Karishma Shenu
